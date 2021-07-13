@@ -1,0 +1,10 @@
+[0m2021.07.13 23:04:54 INFO  Started: Metals version 0.10.4 in workspace '/Users/adlee/Documents/github/flashloan_testv2' for client Visual Studio Code 1.58.0.[0m
+[0m2021.07.13 23:04:58 INFO  time: initialize in 3.94s[0m
+[0m2021.07.13 23:04:59 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.13 23:04:59 WARN  no build tool detected in workspace '/Users/adlee/Documents/github/flashloan_testv2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Jul 13, 2021 11:14:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 13, 2021 11:16:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 13, 2021 11:23:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
